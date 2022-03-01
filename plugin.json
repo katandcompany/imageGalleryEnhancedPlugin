@@ -1,0 +1,22 @@
+{
+  "author":"KAT & Company",
+  "pluginName": "Image Gallery Enhanced",
+  "pluginDescription": "This is an enhanced version of BuildFire's Image Gallery plugin. It adds features missing from the original plugin. Related Topics: Photos, Instagram",
+  "pluginKeywords":"instagram,gallery,picture,image,photo",
+  "supportEmail":"webmaster@katandcompany.com",
+  "control": {
+    "content":{
+      "enabled":true
+    },
+    "design":{
+      "enabled":false
+    },
+    "settings":{
+      "enabled":true
+    }
+  },
+  "widget":{},
+  "features" : [{"name": "sharing"}],
+  "webpack": "8080",
+  "languages" : ["en"]
+}
